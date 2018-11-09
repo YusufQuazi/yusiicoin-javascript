@@ -1,2 +1,2 @@
 # yusiicoin-javascript
-This is a demo coin created with javascript as a practice project. 
+This Project was created to understand  how a  blockchain Works.
